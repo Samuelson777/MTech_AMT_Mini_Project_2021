@@ -60,3 +60,6 @@ Special thanks to:
 ---
 
 For further details, please refer to the full project report.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/MTech_AMT_Mini_Project_2021/blob/main/LICENSE) file for details.
